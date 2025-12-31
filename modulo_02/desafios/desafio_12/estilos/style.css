@@ -44,8 +44,8 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
-    font-family: var(--fonte3)
-    font-size: 2vw;
+    font-family: var(--fonte3);
+    font-size: 3vw;
 }
 section.normal {
     background-color: white;
